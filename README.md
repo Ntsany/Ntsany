@@ -12,7 +12,7 @@ I'm Nisrina Tsany Sulthanah, a passionate Data Analyst & Data Scientist speciali
 📚 Currently enhancing skills in Natural Language Processing (NLP) & Predictive Analytics
 
 ## 🔧 Technologies & Tools
-🐍 Python | 📊 SQL | 📈 Tableau | 🤖 Hugging Face
+🐍 Python | 📊 SQL | 📈 Tableau | 🤖 Hugging Face | 📚 TensorFlow | 📊 Matplotlib |
 
 
 ## 🎓 Education
