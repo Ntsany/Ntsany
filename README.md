@@ -18,7 +18,7 @@ I'm Nisrina Tsany Sulthanah, a passionate Data Analyst & Data Scientist speciali
 ## 🎓 Education
 🏆 Hacktiv8 Indonesia – Full-Time Data Science & Analytics
 
-Final Score: 82.680/100
+Final Score: 82.68/100
 
 🎓 Jakarta State Polytechnic – Bachelor of Informatics and Computer Engineering
 
