@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello, Welcome to My GitHub Profile! 👋
+I'm Nisrina Tsany Sulthanah, a passionate Data Analyst & Data Scientist specializing in transforming raw data into actionable insights that drive business growth and innovation.
 
-<!--
-**Ntsany/Ntsany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+📊 Data Analyst | Enthusiast in Machine Learning & NLP | Business-Driven Insights
+💡 Passionate about solving real-world challenges with data-driven solutions
+📍 Based in Depok, Indonesia, collaborating globally!
+📚 Currently enhancing skills in Natural Language Processing (NLP) & Predictive Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔧 Technologies & Tools
+🐍 Python | 📊 SQL | 📈 Tableau | 🤖 Hugging Face
+
+
+## 🎓 Education
+🏆 Hacktiv8 Indonesia – Full-Time Data Science & Analytics
+Final Score: 82.680/100
+🎓 Jakarta State Polytechnic – Bachelor of Informatics and Computer Engineering
+GPA: 3.86/4.0
+Graduated with Cum Laude 🎓
+
+## 📫 Connect with Me
+📝 Email: nisrinatsany01@gmail.com
+💼 LinkedIn: Let's connect!
 -->
