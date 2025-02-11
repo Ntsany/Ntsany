@@ -1,9 +1,5 @@
 ## Hello, Welcome to My GitHub Profile! 👋
 
-
-https://github.com/user-attachments/assets/ac38aba9-9c31-4da6-bf18-78b06b6a8b93
-
-
 I'm Nisrina Tsany Sulthanah, a passionate Data Analyst & Data Scientist specializing in transforming raw data into actionable insights that drive business growth and innovation.
 
 
